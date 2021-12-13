@@ -1,1 +1,1 @@
-URL: https://emihopebu.github.io/hover_effect_v3/
+URL: https://emihopebu.github.io/hover_me_v3/
